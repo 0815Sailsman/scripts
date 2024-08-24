@@ -1,0 +1,1 @@
+sudo -A iwlist wlp0s20f3 scan
